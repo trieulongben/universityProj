@@ -6,6 +6,10 @@ Contain all projects made when i was in university.
 
 [Kaggle](https://github.com/trieulongben/Kaggle)
 
+## Flask RSA authentication
+[RSA-Authenticate](https://github.com/hcmiuiot/smarthomev3/tree/authen)
+Use RSA to encrypt infomation to form session key.
+
 
 ## Decision Support System (Javascript,Python)
 [Decision Support System](https://github.com/trieulongben/dssProject)\
