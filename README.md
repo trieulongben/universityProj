@@ -6,6 +6,9 @@ Contain all projects made when i was in university.
 
 [Kaggle](https://github.com/trieulongben/Kaggle)
 
+# Bestproj : Plant Diseases recognize [federated FedAvg unofficial implement] - Flask
+[plantdisease-flask](https://github.com/trieulongben/plantdiseaseRecognize)
+
 ## Flask RSA authentication
 [RSA-Authenticate](https://github.com/hcmiuiot/smarthomev3/tree/authen)
 Use RSA to encrypt infomation to form session key.
